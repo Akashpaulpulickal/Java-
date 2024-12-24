@@ -1,0 +1,15 @@
+// Java Operators
+public class Main {
+    public static void main(String[] args) {
+        int x = 5 + 3;
+        int y = x - 2;
+        int z = y * 2;
+        int w = z / 2;
+        int v = w % 3;
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(z);
+        System.out.println(w);
+        System.out.println(v);
+    }
+}
